@@ -1,0 +1,12 @@
+{
+  "name": "mcbot-replit",
+  "version": "1.0.0",
+  "description": "Bot Minecraft Bedrock para Aternos, rodando no Replit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.57.0"
+  }
+}
